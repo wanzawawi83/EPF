@@ -1,4 +1,2 @@
-﻿log "upload to GIT"
-set myList to ["abc","xxx","cde", "xy"]
-put the index of the item containing "d" in myList --> 3
-put index of item containing "Z" in myList --> 0
+log today
+LogSuccess "GOOD"
