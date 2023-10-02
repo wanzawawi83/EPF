@@ -1,0 +1,4 @@
+﻿2023-05-19 09:30:08.759 +0800	START		Running testGIT.script
+2023-05-19 09:30:08.826 +0800	Log		upload to GIT	1	on_testgit	testGIT.script
+2023-05-19 09:30:08.853 +0800	EndTestCase		(Duration:"0.082451", Errors:"0", Exceptions:"0", StartTime:"2023-05-19 09:30:08 +0800", Successes:"1", TestCase:"testGIT.script", Warnings:"0")
+2023-05-19 09:30:08.859 +0800	SUCCESS		Execution Time 0:00:00 testGIT.script

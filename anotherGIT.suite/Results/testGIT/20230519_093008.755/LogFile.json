@@ -1,0 +1,28 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running testGIT.script",
+      "timestamp" : "2023-05-19 09:30:08.759 +0800"
+    },
+    {
+      "handlerName" : "on_testgit",
+      "message" : "upload to GIT",
+      "timestamp" : "2023-05-19 09:30:08.826 +0800",
+      "identifier" : "Log",
+      "scriptName" : "testGIT.script",
+      "handlerLine" : 1
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.082451\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-05-19 09:30:08 +0800\", Successes:\"1\", TestCase:\"testGIT.script\", Warnings:\"0\")",
+      "timestamp" : "2023-05-19 09:30:08.853 +0800"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:00 testGIT.script",
+      "timestamp" : "2023-05-19 09:30:08.859 +0800"
+    }
+  ],
+  "createdTimestamp" : "2023-05-19 09:30:08.769 +0800"
+}

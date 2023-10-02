@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<statistics>
+ <script name="testGIT">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2023-05-19 09:30:08 +0800</FirstRun>
+  <LastRun>2023-05-19 09:30:08 +0800</LastRun>
+  <TotalTimeOnSuccess>0.096707</TotalTimeOnSuccess>
+ </script>
+</statistics>
