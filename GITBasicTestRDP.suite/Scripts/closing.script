@@ -1,4 +1,0 @@
-﻿click [remotescreensize().x/2,RemoteScreenSize().y/2]
-wait 5
---Click {Image:"closebutton", WaitFor:5}
-typetext windowsAltKey,F4
