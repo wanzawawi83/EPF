@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="closing_script" package="GITBasicTestRDP.suite" timestamp="2025-12-30 13:45:18.926 +0800"
+ tests="1"  failures="1" errors="0" time="5.124369">
+  <properties>
+   <property name="RunDate" value="2025-12-30 13:45:18.926 +0800"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="closing.script" assertions="1" status="failure"  time="5.120801">
+    <failure type="FAILURE" message="SenseTalk Runtime Exception: Invalid operands for addition: expected numbers, dates and/or lists; got &apos;&apos; and &apos;&apos; -- Execution Time 0:00:05 closing.script" />
+  </testcase>
+ </testsuite>
+</testsuites>
