@@ -1,3 +1,0 @@
-﻿wait 10
-DoubleClick {Image:"chromeicon", WaitFor:5}
-
