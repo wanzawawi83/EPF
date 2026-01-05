@@ -1,0 +1,29 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running closing.script",
+      "timestamp" : "2025-12-30 13:45:18.928 +0800"
+    },
+    {
+      "handlerName" : "on_closing",
+      "message" : "at (512, 384)",
+      "timestamp" : "2025-12-30 13:45:19.039 +0800",
+      "identifier" : "click",
+      "scriptName" : "closing.script",
+      "handlerLine" : 1
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"5.120801\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2025-12-30 13:45:18 +0800\", Successes:\"0\", TestCase:\"closing.script\", Warnings:\"0\")",
+      "timestamp" : "2025-12-30 13:45:24.050 +0800"
+    },
+    {
+      "message" : "SenseTalk Runtime Exception: Invalid operands for addition: expected numbers, dates and\/or lists; got '' and '' -- Execution Time 0:00:05 closing.script",
+      "timestamp" : "2025-12-30 13:45:24.148 +0800",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2025-12-30 13:45:18.929 +0800"
+}
