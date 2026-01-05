@@ -1,0 +1,5 @@
+﻿log "from GIT repo"
+wait 10
+log "testing from GIT repo"
+wait 10
+log "end"
