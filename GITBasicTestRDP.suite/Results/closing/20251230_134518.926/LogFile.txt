@@ -1,4 +1,0 @@
-﻿2025-12-30 13:45:18.928 +0800	START		Running closing.script
-2025-12-30 13:45:19.039 +0800	click		at (512, 384)	1	on_closing	closing.script
-2025-12-30 13:45:24.050 +0800	EndTestCase		(Duration:"5.120801", Errors:"1", Exceptions:"0", StartTime:"2025-12-30 13:45:18 +0800", Successes:"0", TestCase:"closing.script", Warnings:"0")
-2025-12-30 13:45:24.148 +0800	FAILURE	Screen_Error.png	SenseTalk Runtime Exception: Invalid operands for addition: expected numbers, dates and/or lists; got '' and '' -- Execution Time 0:00:05 closing.script

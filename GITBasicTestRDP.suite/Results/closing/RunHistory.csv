@@ -1,4 +1,0 @@
-﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
-2025-12-30 13:43:19.207 +0800,"Aborted",0:01:22,1,0,0,"20251230_134319.207/LogFile.txt","","",0
-2025-12-30 13:45:18.926 +0800,"Failure",0:00:05,1,0,0,"20251230_134518.926/LogFile.txt","","SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got '' and ''",0
-2025-12-30 13:55:00.607 +0800,"Success",0:00:05,0,0,0,"20251230_135500.607/LogFile.txt","","",1
