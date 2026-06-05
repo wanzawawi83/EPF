@@ -1,4 +1,0 @@
-﻿2025-12-30 13:43:19.209 +0800	START		Running closing.script
-2025-12-30 13:43:19.340 +0800	click		at (512, 384)	1	on_closing	closing.script
-2025-12-30 13:44:41.929 +0800	EndTestCase		(Duration:"82.719569", Errors:"1", Exceptions:"0", StartTime:"2025-12-30 13:43:19 +0800", Successes:"0", TestCase:"closing.script", Warnings:"0")
-2025-12-30 13:44:41.931 +0800	ABORTED		Execution Time 0:01:22 closing.script
