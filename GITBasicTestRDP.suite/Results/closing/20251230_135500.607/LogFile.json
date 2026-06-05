@@ -1,0 +1,36 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running closing.script",
+      "timestamp" : "2025-12-30 13:55:00.609 +0800"
+    },
+    {
+      "handlerName" : "on_closing",
+      "message" : "at (512, 384)",
+      "timestamp" : "2025-12-30 13:55:00.730 +0800",
+      "identifier" : "click",
+      "scriptName" : "closing.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_closing",
+      "message" : "[windowsAltKey][F4]",
+      "timestamp" : "2025-12-30 13:55:05.758 +0800",
+      "identifier" : "typetext",
+      "scriptName" : "closing.script",
+      "handlerLine" : 4
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"5.155032\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2025-12-30 13:55:00 +0800\", Successes:\"1\", TestCase:\"closing.script\", Warnings:\"0\")",
+      "timestamp" : "2025-12-30 13:55:05.765 +0800"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:05 closing.script",
+      "timestamp" : "2025-12-30 13:55:05.772 +0800"
+    }
+  ],
+  "createdTimestamp" : "2025-12-30 13:55:00.610 +0800"
+}
