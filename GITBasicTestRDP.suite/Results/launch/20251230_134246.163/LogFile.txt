@@ -1,4 +1,0 @@
-﻿2025-12-30 13:42:46.165 +0800	START		Running launch.script
-2025-12-30 13:42:56.423 +0800	doubleclick	chromeicon	at (51, 623)	2	on_launch	launch.script
-2025-12-30 13:42:56.432 +0800	EndTestCase		(Duration:"10.260843", Errors:"0", Exceptions:"0", StartTime:"2025-12-30 13:42:46 +0800", Successes:"1", TestCase:"launch.script", Warnings:"0")
-2025-12-30 13:42:56.438 +0800	SUCCESS		Execution Time 0:00:10 launch.script
