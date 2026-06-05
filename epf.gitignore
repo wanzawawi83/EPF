@@ -1,0 +1,11 @@
+*.timestamp,
+
+SearchObjects/,
+*.suite/SearchObjects/,
+Features/,
+Results/,
+*.suite/Results/,
+Sessions/,
+TableScripts/,
+
+*.orig
