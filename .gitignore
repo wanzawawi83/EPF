@@ -19,3 +19,7 @@ Thumbs.db
 
 # EPF internal
 .vam/
+**/.vam/
+
+.vamignore
+**/.vamignore
