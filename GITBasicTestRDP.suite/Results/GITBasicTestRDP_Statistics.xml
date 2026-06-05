@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<statistics>
+ <script name="closing">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2025-12-30 13:45:18 +0800</FirstRun>
+  <LastRun>2025-12-30 13:55:00 +0800</LastRun>
+  <TotalTimeOnSuccess>5.157451</TotalTimeOnSuccess>
+ </script>
+ <script name="moving">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2025-12-30 13:54:22 +0800</FirstRun>
+  <LastRun>2025-12-30 13:54:22 +0800</LastRun>
+  <TotalTimeOnSuccess>22.051113</TotalTimeOnSuccess>
+ </script>
+ <script name="opennetfolder">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2024-11-11 10:06:37 +0800</FirstRun>
+  <LastRun>2024-11-11 10:06:37 +0800</LastRun>
+  <TotalTimeOnSuccess>25.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="launch">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2024-11-08 15:50:06 +0800</FirstRun>
+  <LastRun>2025-12-30 13:42:46 +0800</LastRun>
+  <TotalTimeOnSuccess>20.266032</TotalTimeOnSuccess>
+ </script>
+</statistics>
