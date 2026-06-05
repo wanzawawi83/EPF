@@ -1,0 +1,21 @@
+# Ignore ALL Results folders anywhere
+Results/
+**/Results/
+
+# Ignore timestamp
+*.timestamp
+
+# Ignore EPF runtime folders
+Sessions/
+TableScripts/
+Features/
+
+# Backup files
+*.orig
+
+# System
+.DS_Store
+Thumbs.db
+
+# EPF internal
+.vam/
